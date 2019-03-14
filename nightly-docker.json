@@ -1,5 +1,6 @@
 {
   "schemaVersion": 1,
   "label": "Nightly Docker Release",
-  "message": "nightly-2345-b9398a"
+  "message": "nightly-2345-b9398a",
+  "cacheSeconds": 30
 }
